@@ -1,0 +1,13 @@
+body {
+ font-family: Verdana, sans-serif; 
+ margin: 0px;
+}
+
+.disclaimer {
+ color: grey;
+ font-size: 80%;
+}
+
+.banner {
+  width: 40%;
+}
